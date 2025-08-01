@@ -86,11 +86,8 @@ GPT-2 generates coherent fake news text based on a user-entered title seed with 
 Code Structure
 text
 ├── app.py              # Streamlit application combining detection & generation
-├── Fake.csv            # Kaggle fake news dataset portion (downloaded)
-├── True.csv            # Kaggle real news dataset portion (downloaded)
-├── kaggle.json         # Your Kaggle API token (not included in repo)
 ├── README.md           # This documentation
-└── requirements.txt    # (Optional) dependency list
+
 Ethical Use Disclaimer
 This system is designed for educational and research purposes only.
 
