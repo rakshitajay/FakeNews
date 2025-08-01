@@ -85,7 +85,7 @@ GPT-2 generates coherent fake news text based on a user-entered title seed with 
 
 Code Structure
 text
-├── app.py              # Streamlit application combining detection & generation
+├── fakenews.py              # Streamlit application combining detection & generation
 ├── README.md           # This documentation
 
 Ethical Use Disclaimer
